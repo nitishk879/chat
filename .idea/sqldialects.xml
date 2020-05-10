@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/chat_localhost-2020_05_10_00_25_17-dump.sql" dialect="MariaDB" />
+  </component>
+</project>
